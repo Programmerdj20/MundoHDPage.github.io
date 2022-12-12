@@ -67,15 +67,12 @@ h2 {
 
 .Telegram {
   position: fixed;
-  right: 25px;
-  bottom: 15px;
-  color: #fd1d1d;
-  border-radius: 50px;
+  right: 1px;
+  bottom: 20px;
   border: none;
-  background-color: #fff;
   transition: all 300ms ease;
 }
 
 .Telegram:hover {
-  transform: scale(1.2);
+  transform: scale(1.3);
 }
