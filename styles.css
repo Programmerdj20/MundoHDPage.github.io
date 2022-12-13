@@ -76,3 +76,8 @@ h2 {
 .Telegram:hover {
   transform: scale(1.2);
 }
+
+.btn-outline-light:hover {
+  background-color: #fd1d1d !important;
+  color: #fff !important;
+}
