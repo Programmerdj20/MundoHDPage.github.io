@@ -68,7 +68,7 @@ h2 {
 .Telegram {
   position: fixed;
   right: 0px;
-  bottom: 20px;
+  bottom: 70px;
   border: none;
   transition: all 300ms ease;
 }
@@ -80,4 +80,9 @@ h2 {
 .btn-outline-light:hover {
   background-color: #fd1d1d !important;
   color: #fff !important;
+}
+
+.ft {
+  /* background: #fff; */
+  background-color: rgba(5, 7, 12, 0.4);
 }
